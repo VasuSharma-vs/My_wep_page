@@ -1,0 +1,27 @@
+.top_contanier, .middle_contanier, .bottom_contanier {
+  margin: 0;
+  padding: 0;
+  display: inline-block;
+  height: 200px;
+  width: 200px;
+  border: solid;
+  border-width: 5px;
+
+}
+.top_contanier {
+  background-color: #ffffd2;
+}
+
+.middle_contanier {
+  background-color: red;
+  border-width: 10px;
+}
+
+.bottom_contanier {
+  background-color: blue;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+}
