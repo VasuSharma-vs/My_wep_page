@@ -52,13 +52,13 @@ u {
   position: absolute;
   filter: saturate(20) opacity(.9) contrast(.75) hue-rotate(-3deg);
   width: 15%;
-  top: 40%;
+  top: 400px;
   right: 15%;
 }
 .cloud-bottom {
   position: absolute;
   filter: saturate(10) opacity(.7) contrast(1);
-  top: 60%;
+  top: 500px;
   left: 18%;
 }
 .mountian {
@@ -113,13 +113,13 @@ hr {
   left: 10%
 }
 .skill-row h3 {
-  padding-left: 2%;
+  padding-left: 10%;
   margin-top: 20px;
   margin-left: 35%;
 }
 .skill-row p {
   margin-left: 35%;
-  padding: 2%;
+  padding-left: 10%;
   width: 55%;
 }
 
@@ -151,6 +151,9 @@ hr {
   text-align: center;
 }
 .contact-me a {
+  background-color: #fcbad3;
+  padding: 10px 20px;
+  border-radius: 10px;
   text-decoration: none;
   color: #00303f;
 }
@@ -162,14 +165,13 @@ hr {
 }
 .footer-link {
   text-decoration: none;
-  margin: 12.5%;
+  margin: 11.5%;
   color: #19456b;
   font-size: 2rem;
   background-color: ;
-
 }
+
 .bottom-container p {
   text-align: center;
   font-size: 1rem;
-
 }
