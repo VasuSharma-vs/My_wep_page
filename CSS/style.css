@@ -160,12 +160,13 @@ hr {
 
 
 .bottom-container {
+  text-align: center;
   padding: 10px;
   background-color: #aa96da;
 }
 .footer-link {
   text-decoration: none;
-  margin: 11.5%;
+  margin: 5%;
   color: #19456b;
   font-size: 2rem;
   background-color: ;
